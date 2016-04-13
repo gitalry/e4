@@ -1,2 +1,5 @@
 # e4
-.....us a psd2html build
+
+A cafe website build. 
+
+PSD2HTML reconstruction.... using foundation zurb
